@@ -27,3 +27,8 @@ Frameworks and libraries:
 - Linktr: https://linktr.ee/arch_code
 - Twitter: https://twitter.com/arch_code
 - Youtube: https://www.youtube.com/channel/UCnJ7h5jHPN8diiuRUrNDF8g
+
+## Colaborators
+[João Paulo Queiroz](https://github.com/joaopauloqueiroz/)
+<br />
+[Lucas Borges](https://github.com/luborges/)
